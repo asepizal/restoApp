@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">RestoApp</string>
+    <string name="button_detail_cardview">Detail</string>
+    <string name="heading_menu_detail">Favourites Menu</string>
+    <string name="greeting_main">Hi Asep,</string>
+    <string name="heading_resto_main">Popular Resto</string>
+    <string name="fab_description">Share to Whatsapp</string>
+    <string name="resto_image">Resto Image</string>
+</resources>
